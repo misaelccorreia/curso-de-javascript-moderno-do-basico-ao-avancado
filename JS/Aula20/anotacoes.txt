@@ -1,0 +1,42 @@
+O que vimos até agora? 
+- Preciso criar mecanismos de revisão, e ir montando uma documentação daquilo que for aprendendo (aprendizagem ativa).
+
+Console
+[OK]
+Comentários
+[OK]
+Navegador vs Node
+[OK]
+Variáveis com let
+[OK]
+Constantes com const
+[OK]
+Let vs var - Primeira diferença
+Com o var ocorria um erro, onde voce poderia declarar uma variavel com var, e depois redeclara-la e atribuila no decorrer do código. O let (tem mais diferenças) a partir do EcmaScript2015 ES6 veio para corrigir esse comportamento nao desejavel, podendo declarar apenas uma vez. Ocorre tambem de o javascript aceitar uma variaval sem declaracao, mas nao faca isso. Isso gera uma variavel global que pode causar maiores danos ao seu codigo.
+[OK]
+Tipos de dados primitivos
+undefined - nao aponta pra lugar nenhum na memoria, isso vem do JS nao se define uma variavel com undefined.
+null - aqui eu especificamente defini para que nao aponte para um lugar
+[OK]
+Operadores aritméticos de atribuição e incremento
+[OK]
+alert, confirm e prompt(Navegador)
+
+Mais sobre strings
+
+mais sobre numbers
+
+Objeto Math
+
+Array(Básico)
+
+Const com valores mutáveis
+
+Funções(Básico)
+
+Objetos(Básico)
+
+Valores primitivos e valores por referência
+
+Exercicio para função, array e objetos 
+
